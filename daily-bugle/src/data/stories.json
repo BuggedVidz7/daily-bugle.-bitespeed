@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "title": "Spider-Man Foils Bank Heist Over Midtown",
+    "category": "Crime",
+    "date": "2026-10-28",
+    "featured": true,
+    "image": "https://picsum.photos/seed/bugle1/800/500",
+    "summary": "Web-slinger stops armed robbers mid-getaway, leaving them stuck to a lamppost for police.",
+    "content": [
+      "Witnesses say the masked vigilante swung into action just as the robbers fled First National Bank with several bags of cash.",
+      "Police arrived to find all four suspects webbed to a lamppost, bags intact. Commissioner's office declined to comment on the vigilante's methods.",
+      "Editor J. Jonah Jameson maintains the incident was 'staged for publicity'."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Oscorp Unveils Controversial Lab Expansion",
+    "category": "Business",
+    "date": "2026-10-27",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle2/800/500",
+    "summary": "Residents question safety as Oscorp announces a new research wing in Queens.",
+    "content": [
+      "Oscorp announced a 40,000 sq ft expansion with 'next-generation biotech' labs.",
+      "Community groups demand independent safety audits following past incidents."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Is Spider-Man a Hero or a Menace?",
+    "category": "Opinion",
+    "date": "2026-10-26",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle3/800/500",
+    "summary": "Our editor weighs in on the masked wall-crawler's growing influence on the city.",
+    "content": [
+      "Since his first appearance, the wall-crawler has divided New Yorkers.",
+      "Supporters point to lives saved; critics cite property damage and a lack of accountability."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Vulture Sighted Over Brooklyn Skyline",
+    "category": "Crime",
+    "date": "2026-10-24",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle4/800/500",
+    "summary": "Reports of a winged flyer prompt a no-fly advisory near the Brooklyn Bridge.",
+    "content": [
+      "Multiple callers reported a metallic winged figure circling rooftops at dawn.",
+      "Spider-Man was seen in pursuit before both vanished into low cloud."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Daily Bugle Photographer Wins Press Award",
+    "category": "Culture",
+    "date": "2026-10-22",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle5/800/500",
+    "summary": "Peter Parker's rooftop shots earn the city's top photojournalism prize.",
+    "content": [
+      "The freelance photographer's exclusive images of the wall-crawler in action were praised for their 'uncanny proximity'.",
+      "Parker said he's 'just in the right place at the right time'."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Doctor Octopus Escapes Ryker's Custody",
+    "category": "Crime",
+    "date": "2026-10-20",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle6/800/500",
+    "summary": "Authorities warn the public after the scientist-turned-villain breaks out overnight.",
+    "content": [
+      "Prison officials confirm the breakout occurred during a power failure.",
+      "Citizens are urged to report any sightings of mechanical tentacles."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Midtown High Science Fair Draws Record Crowd",
+    "category": "Education",
+    "date": "2026-10-18",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle7/800/500",
+    "summary": "Students showcase web-fluid inspired adhesives and clean-energy projects.",
+    "content": [
+      "More than 300 entries were judged, with adhesive science a surprising favourite.",
+      "Organisers credit renewed local interest in STEM."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mayor Proposes City-Wide Vigilante Registry",
+    "category": "Politics",
+    "date": "2026-10-16",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle8/800/500",
+    "summary": "New bill would require masked heroes to register with the NYPD.",
+    "content": [
+      "The proposal has drawn support from police unions and fierce criticism from civil liberties groups.",
+      "A council vote is expected next month."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Queens Bakery Thanks Friendly Neighbourhood Hero",
+    "category": "Culture",
+    "date": "2026-10-14",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle9/800/500",
+    "summary": "A local baker credits Spider-Man with saving the shop from a runaway truck.",
+    "content": [
+      "The owner baked a hundred pastries 'for whoever needs one'.",
+      "The hero left a thank-you note in webbing on the front window."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Sandman Spotted Near Coney Island Beach",
+    "category": "Crime",
+    "date": "2026-10-12",
+    "featured": false,
+    "image": "https://picsum.photos/seed/bugle10/800/500",
+    "summary": "Lifeguards report unusual sand formations and a very large, very sandy man.",
+    "content": [
+      "Beachgoers were evacuated for two hours as police and Spider-Man responded.",
+      "No injuries were reported."
+    ]
+  }
+]
